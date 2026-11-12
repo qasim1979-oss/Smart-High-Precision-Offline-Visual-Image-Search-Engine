@@ -1,0 +1,2 @@
+# Smart-High-Precision-Offline-Visual-Image-Search-Engine
+A high-performance, 100% offline Windows desktop application engineered to perform **smart visual similarity searches** across local photo archives, design mockups, and product libraries. Developed with a high-precision structural and color matching engine to ensure relevant results without relying on cloud servers or internet connectivity.
